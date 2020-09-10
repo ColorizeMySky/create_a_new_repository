@@ -1,4 +1,4 @@
-Для доступа к IP использован json-server
+Для доступа к API использован json-server
 > https://github.com/typicode/json-server
 
 запуском команды
